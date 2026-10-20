@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GITHUB-Nafis-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://www.instagram.com/nfish_art/">
+  <a href="https://www.instagram.com/nfish_isan/">
     <img src="https://img.shields.io/badge/INSTAGRAM-Nafis_Ikhsan-000000?style=for-the-badge&labelColor=E1306C&color=000000" alt="Instagram" />
   </a>
 

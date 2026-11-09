@@ -39,8 +39,7 @@
 
 <p align="center">
   💻 web developer &nbsp; • &nbsp;
-  🤖 AI enthusiast &nbsp; • &nbsp;
-  ⚡ full-stack developer
+  🤖 AI Engineer &nbsp; • &nbsp;
 </p>
 
 <p align="center">
